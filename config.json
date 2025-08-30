@@ -117,8 +117,8 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "name": "飘零资源",
             "detail": "https://p2100.net"
-        }，
-    "xiaomaomi": {
+        },
+        "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
